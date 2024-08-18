@@ -1,7 +1,7 @@
 # jumbler-rs
 
-A Rust implementation of the [`jumbler` program written in C][jumbler-c]. See the [original] project's README for more
-information.
+A Rust implementation of the [`jumbler` program written in C][jumbler-c]. See the [original][jumbler-c] project's README
+for more information.
 
 <!--links-->
 
